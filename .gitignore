@@ -1,0 +1,18 @@
+# Flutter/Dart & General Ignores
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Build Artifacts
+**/build
+**/.idea
+**/*.iml
+.DS_Store
+
+# Node.js/Firebase Backend Ignores
+node_modules/
+npm-debug.log
+.env
+venv/
